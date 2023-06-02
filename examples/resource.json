@@ -1,0 +1,18 @@
+{
+  'additional_properties': {},
+  'id': '/subscriptions/1b583e11-ee09-4ea5-98ca-9230157380a0/resourceGroups/eus2-dev-idss-rg/providers/microsoft.alertsmanagement/smartDetectorAlertRules/Failure Anomalies - eus2-dev-idss-ains',
+  'name': 'Failure Anomalies - eus2-dev-idss-ains',
+  'type': 'microsoft.alertsmanagement/smartDetectorAlertRules',
+  'location': 'global',
+  'extended_location': None,
+  'tags': {},
+  'plan': None,
+  'properties': None,
+  'kind': None,
+  'managed_by': None,
+  'sku': None,
+  'identity': None,
+  'created_time': None,
+  'changed_time': None,
+  'provisioning_state': None
+}

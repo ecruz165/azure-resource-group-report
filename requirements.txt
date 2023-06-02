@@ -1,0 +1,7 @@
+python-dotenv
+azure-identity
+azure-mgmt-resource
+azure-mgmt-compute
+azure-mgmt-storage
+python-dotenv
+xlsxwriter
